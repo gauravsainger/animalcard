@@ -1,0 +1,33 @@
+.image { 
+     width: 300px;
+     border: 1px solid #d0c8c8;
+}
+
+.interesting-fact {
+ 	 font-style: italic;
+}
+
+.card {
+	width: 300px;
+	border: 1px solid #d0c8c8;
+	padding: 10px;
+	box-shadow: 5px 5px 5px #d0c8c8;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.card-info {
+	border: 1px solid #d0c8c8;
+	padding: 10px;
+	margin-bottom: 10px;
+}
+
+.fact-label {
+	font-weight: bold;
+}
+
+.list {
+	margin-left: 0;
+	list-style-type: none;
+}
+
